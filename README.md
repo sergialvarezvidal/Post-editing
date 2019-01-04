@@ -9,8 +9,8 @@ You need to postedit 29 segments from an English to Spanish medical text pretran
 
 Then, a window will show the Configuration (experiments.pec) and Workspace assigned you need to work with. There are two tasks available. You will be assigned one of the two. Select it and clic <b>Start</b>. 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Tasks interface](/images/tasks.png)
+
 
 
 The working interface will open. You need to post-edit the segments as you would do in any other CAT tool to produce publishable professional quality translations. There are no dictionaries or any other suggestions in the interface other than the MT output that needs to be post-edited. You can check all the resources you need while post editing the segment. When you click the segment in red, it changes to yellow. The time is recorded while the segment has yellow background (editing mode). Please change the status of the segment before you start thinking about the post-editing of the sentence and leave the segment when you have finished. If you need to stop post-editing for any reason, please exit the editing mode (it needs to be red or green) and resume this mode when you are ready to continue. When you have finished post-editing, press Alt + down arrow or click on the icons on the right of the screen to move forward. The segment will change to a green background. 
