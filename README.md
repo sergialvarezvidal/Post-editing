@@ -1,9 +1,18 @@
-# Postediting with PET
-First of all, thanks for taking part in this experiment.
+# Post-editing with PET
+First of all, thank you for taking part in this experiment.
 
-This postediting task is part of the research I am carrying out for the PhD in Translation And Language Sciences at Universidad Pompeu Fabra, with the supervision of Toni Badia and Antoni Oliver. The goal is to study how machine translation and quality affect postediting. We will use PET, a computer-assisted translation tool that supports post-editing. It is with its default settings. It logs both postediting time and edits (keystrokes, insertions and deletions, that is, technical effort).  
+This post-editing task is part of the research I am carrying out for the PhD in Translation and Language Sciences at Universitat Pompeu Fabra, with the supervision of Toni Badia and Antoni Oliver. The goal is to study how machine translation quality affects postediting and how can we measure this quality. We will use PET, a computer-assisted translation tool that supports post-editing. It is configured with its default settings. It logs your behaviour while translating, both recording postediting time and edits (keystrokes, insertions and deletions, that is, technical effort). This information will be used for research only and in no case will it be linked to your personal data.
 
-Before beginning the task, each translator needs to fill in the following form with some questions about their previous in the translation industry: <a href="https://www.surveymonkey.com/r/SLL5H3Q">https://www.surveymonkey.com/r/SLL5H3Q</a>.
+Before beginning the task, you must fill in [this survey](https://www.surveymonkey.com/r/SLL5H3Q) with some questions about your previous experience in the translation industry.
 
-You need to postedit 29 segments from a English to Spanish medical text pretranslated with randomized PBMT and NMT outputs. PET requieres no previous installation. You only need to download this file. It contains the tool and the task. You need to unzip the file, double-click the folder it creates (<b>PET-v2.0</b>) and execute the <b>run.bat</b> file in Windows. If it doesn't run properly, there is probably a problem with Java. See the PET manual to obtain further information on how to solve the problem.
- Next, a window will show the Configuration (experiments.pec) and Workspace assigned you need to work with. There are two tasks available. You will be assigned one of the two. Select it and clic Start . 
+You need to postedit 29 segments from an English to Spanish medical text pretranslated with randomized PBMT and NMT outputs. PET requires no previous installation. You only need to download [this file](PET-v2.0_PBNMT_experiments.zip). It contains the tool and the task. You need to unzip the file, double-click the folder it creates (<b>PET-v2.0</b>) and execute the <b>run.bat</b> file in Windows. If it doesn't run properly, there is probably a problem with Java. See the [PET manual](http://wilkeraziz.github.io/dcs-site/pet/manual/r141.pdf) to obtain further information on how to solve the problem.
+
+Then, a window will show the Configuration (experiments.pec) and Workspace assigned you need to work with. There are two tasks available. You will be assigned one of the two. Select it and clic <b>Start</b>. 
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
+The working interface will open. You need to post-edit the segments as you would do in any other CAT tool to produce publishable professional quality translations. There are no dictionaries or any other suggestions in the interface other than the MT output that needs to be post-edited. You can check all the resources you need while post editing the segment. When you click the segment in red, it changes to yellow. The time is recorded while the segment has yellow background (editing mode). Please change the status of the segment before you start thinking about the post-editing of the sentence and leave the segment when you have finished. If you need to stop post-editing for any reason, please exit the editing mode (it needs to be red or green) and resume this mode when you are ready to continue. When you have finished post-editing, press Alt + down arrow or click on the icons on the right of the screen to move forward. The segment will change to a green background. 
+
+Send back the results zipping the PETv2.0 folder and emailing it.
