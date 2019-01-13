@@ -21,5 +21,6 @@ The working interface will open. You need to post-edit the segments as you would
 Send back the results zipping the PETv2.0 folder and emailing it.
 
 
-
-The information in this document is based on the PET use manual by WILKER AZIZ and LUCIA SPECIA.
+<br>
+<br>
+The information in this document is based on the PET user manual by WILKER AZIZ and LUCIA SPECIA.
