@@ -18,5 +18,8 @@ The working interface will open. You need to post-edit the segments as you would
 
 ![Post-editing interface with the different colour-coded segments (PET manual)](/images/Interface.png)
 
-
 Send back the results zipping the PETv2.0 folder and emailing it.
+
+
+
+The information in this document is based on the PET use manual by WILKER AZIZ and LUCIA SPECIA.
