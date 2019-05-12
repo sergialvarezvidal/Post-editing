@@ -5,7 +5,7 @@ This post-editing task is part of the research I am carrying out for the PhD in 
 
 Before beginning the task, you must fill in [this survey](https://www.surveymonkey.com/r/SLL5H3Q) with some questions about your previous experience in the translation industry.
 
-You need to postedit 41 segments from an English to Spanish medical text pretranslated with randomized PBMT and NMT outputs. PET requires no previous installation. You only need to download [this file](https://drive.google.com/open?id=13MiZaMfD5_ktNYaVxrxuPWEA-tltVL5Y). It contains the tool and the task. You need to unzip the file, double-click the folder it creates (<b>PET-v2.0</b>) and execute the <b>run.bat</b> file in Windows. If it doesn't run properly, there is probably a problem with Java. See the [PET manual](http://wilkeraziz.github.io/dcs-site/pet/manual/r141.pdf) to obtain further information on how to solve the problem.
+You need to postedit 41 segments from an English to Spanish medical text pretranslated with randomized PBMT and NMT outputs. PET requires no previous installation. You only need to download [this file](https://drive.google.com/file/d/1P4E0IwqVID-tBwhiNh_hHTGkUViNNT1P/view?usp=sharing). It contains the tool and the task. You need to unzip the file, double-click the folder it creates (<b>PET-v2.0</b>) and execute the <b>run.bat</b> file in Windows. If it doesn't run properly, there is probably a problem with Java. See the [PET manual](http://wilkeraziz.github.io/dcs-site/pet/manual/r141.pdf) to obtain further information on how to solve the problem.
 
 Then, a window will show the Configuration (experiments.pec) and Workspace assigned you need to work with. There are two tasks available. You will be assigned one of the two. Select it and clic <b>Start</b>. 
 
